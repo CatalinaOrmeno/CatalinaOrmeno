@@ -1,7 +1,28 @@
-Soy estudiante de Ingeniería en Informática y actualmente estoy finalizando el tercer semestre, camino a obtener el título de Analista Programador. Me motiva el aprendizaje constante y el desarrollo de soluciones tecnológicas que generen impacto.
+# 👩‍💻 Catalina Ormeño
 
-Tengo conocimientos en desarrollo fullstack, programación en Java, Python y PL/SQL, además de bases en JavaScript, HTML y AWS. Me gusta trabajar con metodologías ágiles como SCRUM y tengo experiencia en el uso de herramientas como JIRA, Google Docs y Canva.
+> Estudiante de Ingeniería en Informática | Futura Analista Programador | Apasionada por la tecnología y el aprendizaje constante
 
-Me caracterizo por ser una persona autodidacta, responsable y comprometida. Disfruto liderar, colaborar y enfrentar nuevos desafíos que potencien mis habilidades técnicas y blandas. Además, tengo un nivel intermedio de inglés (oral y escrito).
+## 🌟 Sobre mí
 
-Actualmente estoy en búsqueda de una práctica profesional que me permita aplicar mis conocimientos en un entorno real, aprender de la industria TI y seguir creciendo como futura Ingeniera en Informática.
+Soy estudiante de **Ingeniería en Informática**, actualmente finalizando el **tercer semestre** y en camino a obtener el título de **Analista Programador**.  
+Me motiva el aprendizaje continuo y el desarrollo de soluciones tecnológicas que generen un impacto real en las personas y organizaciones.
+
+💡 Me caracterizo por ser **autodidacta, responsable y comprometida**, disfrutando tanto de **liderar proyectos** como de **colaborar en equipo** y enfrentar nuevos desafíos.
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+- **Lenguajes de Programación:** Java, Python, PL/SQL  
+- **Bases:** JavaScript, HTML  
+- **Cloud:** AWS (nivel básico)  
+- **Metodologías Ágiles:** SCRUM  
+- **Herramientas:** JIRA, Google Docs, Canva
+
+---
+
+## 📚 Actualmente
+
+- 🔍 Buscando **práctica profesional** para aplicar conocimientos en un entorno real.  
+- 🚀 Aprendiendo más sobre **desarrollo fullstack** y mejores prácticas de ingeniería de software.  
+- 🌱 Mejorando mi nivel de **inglés intermedio** (oral y escrito).
