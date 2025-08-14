@@ -4,7 +4,7 @@
 
 ## 🌟 Sobre mí
 
-Soy estudiante de **Ingeniería en Informática**, actualmente finalizando el **tercer semestre** y en camino a obtener el título de **Analista Programador**.  
+Soy estudiante de **Ingeniería en Informática**, actualmente en mi **cuarto semestre** y en camino a obtener el título de **Analista Programador**.  
 Me motiva el aprendizaje continuo y el desarrollo de soluciones tecnológicas que generen un impacto real en las personas y organizaciones.
 
 💡 Me caracterizo por ser **autodidacta, responsable y comprometida**, disfrutando tanto de **liderar proyectos** como de **colaborar en equipo** y enfrentar nuevos desafíos.
