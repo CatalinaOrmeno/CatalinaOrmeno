@@ -80,4 +80,4 @@ Actualmente estoy enfocada en **fortalecer mis bases técnicas y académicas**, 
 
 ## 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Catalina%20Ormeño-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/catalina-ormeño-del-valle-b32808368)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Catalina%20Ormeño-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/catalina-ormeño-del-valle-b32808368)
